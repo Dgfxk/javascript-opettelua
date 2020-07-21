@@ -28,3 +28,4 @@ input.onButtonPressed(Button.AB, function () {
 })
 basic.showString("MOI!")
 basic.clearScreen()
+
